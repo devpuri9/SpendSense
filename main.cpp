@@ -38,7 +38,9 @@ int main()
             {
                 int userChoice;
 
-                cout << "\n========== User Management ==========";
+                cout << "\n====================================";
+                cout << "\n       User Management";
+                cout << "\n====================================";
                 cout << "\n1. Register User";
                 cout << "\n2. Login";
                 cout << "\n3. View Profile";
@@ -80,7 +82,9 @@ int main()
             {
                 int expenseChoice;
 
-                cout << "\n======== Expense Management ========";
+                cout << "\n====================================";
+                cout << "\n      Expense Management";
+                cout << "\n====================================";
                 cout << "\n1. Add Expense";
                 cout << "\n2. View Expense";
                 cout << "\n3. Edit Expense";
