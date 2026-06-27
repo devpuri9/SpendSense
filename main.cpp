@@ -153,11 +153,11 @@ int main()
             }
 
             case 3:
-                cout << "\nCategory Module Coming Soon...\n";
+                cout << "\nCategory Management Module Coming Soon...\n";
                 break;
 
             case 4:
-                cout << "\nBudget Module Coming Soon...\n";
+                cout << "\nBudget Management Module Coming Soon...\n";
                 break;
 
             case 5:
